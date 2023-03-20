@@ -439,6 +439,9 @@ span.colored-span {
   .portfolio-box {
     width: 100%;
   }
+  #fix {
+    font-size: 2.8rem;
+  }
 }
 @media (max-width: 450px) {
   html {
@@ -446,5 +449,8 @@ span.colored-span {
   }
   .container form .input-box input {
     width: 100%;
+  }
+  #fix {
+    font-size: 2.8rem;
   }
 }
